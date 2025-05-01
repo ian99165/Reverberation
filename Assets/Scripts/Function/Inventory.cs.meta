@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1c8f51886f49a504fafcc3826b337585
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - itemsContainer: {instanceID: 0}
+  - Key: {fileID: 4423350305948898793, guid: ec5e6e78be81bc542bef8e6e82fae332, type: 3}
+  - Clockwork: {fileID: 4423350305948898793, guid: 7c65a351045b27140adbcbbab836347a, type: 3}
+  - Pages: {fileID: 4423350305948898793, guid: 416d3284a4205ab4bab2222113c335d0, type: 3}
+  - Key3D: {fileID: 7867528473736514512, guid: a61994af061da7c4ea4a4f35726ebcd0, type: 3}
+  - Clockwork3D: {fileID: 5483212586045795938, guid: 128ea2951f1edd14ba37f82d5d5db3e6, type: 3}
+  - Pages3D: {fileID: 3330322671933082866, guid: 4af49dcd0521e074ea76bde9bd1dd082, type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
